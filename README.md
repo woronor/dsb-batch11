@@ -4,34 +4,20 @@
 
 ## Personal Projects
 #### 1. SQL
-| Project_Name | Description |
-| ----------- | ----------- |
-| [...]() | _coming soon_ |
-| [...]() | _coming soon_ |
+-[...]()
 
 #### 2. R Programming
-| Project_Name | Description |
-| ----------- | ----------- |
-| [...]() | _coming soon_ |
-| [...]() | _coming soon_ |
+- [Pao Ying Chub](https://github.com/woronor/pao-ying-chub-with-r/blob/main/code)
+- [Data Transformation`nycflights23`](https://github.com/woronor/data-transformation-r/blob/main/nyc_basic_script.R)
 
 #### 3. Python Programming
-| Project_Name | Description |
-| ----------- | ----------- |
-| [...]() | _coming soon_ |
-| [...]() | _coming soon_ |
+-[...]()
 
 #### 4. Dashboard
-| Project_Name | Description |
-| ----------- | ----------- |
-| [...]() | _coming soon_ |
-| [...]() | _coming soon_ |
+-[...]()
 
 #### 5. Linear Regression Model using `Caret`
-| Project_Name | Description |
-| ----------- | ----------- |
-| [...]() | _coming soon_ |
-| [...]() | _coming soon_ |
+-[...]()
 
 ## Contact Me
 reach out to me: wnwareenan@gmail.com
